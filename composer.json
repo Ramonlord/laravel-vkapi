@@ -1,6 +1,5 @@
 {
     "name": "bafoed/vkapi",
-    "version": "1.0.0",
     "type": "library",
     "description": "Laravel helper for performing requests to VK API",
     "keywords": [
