@@ -1,14 +1,14 @@
 {
-    "name": "bafoed/vkapi",
+    "name": "Ramonlord/vkapi",
     "type": "library",
     "description": "Laravel helper for performing requests to VK API",
     "keywords": [
-        "bafoed",
+        "Ramonlord",
         "vkapi",
         "vk",
         "laravel"
     ],
-    "homepage": "https://github.com/bafoed/laravel-vkapi",
+    "homepage": "https://github.com/Ramonlord/laravel-vkapi",
     "license": "MIT",
     "authors": [
         {
@@ -29,12 +29,12 @@
     },
     "autoload": {
         "psr-4": {
-            "bafoed\\VKAPI\\": "src"
+            "Ramonlord\\VKAPI\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "bafoed\\VKAPI\\Test\\": "tests"
+            "Ramonlord\\VKAPI\\Test\\": "tests"
         }
     },
     "scripts": {
