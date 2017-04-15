@@ -1,6 +1,7 @@
 {
     "name": "Ramonlord/vkapi",
     "type": "library",
+    "version": "1.0.0",
     "description": "Laravel helper for performing requests to VK API",
     "keywords": [
         "Ramonlord",
